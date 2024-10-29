@@ -1,11 +1,13 @@
 class Library:
+
     def __init__(self):
-        Library.books = []
-        
-    def add_book(self, book ):
-        Library.books.append(book)
+        self.books = []
+
+    def add_book(self,book):
+        self.books.append(book)
+        print(f"added {book.get_title()}")
 
     def display_books(self):
         print('Available Books: ')
-        for book in Library.books:
+        for book in self.books:
             book.display()
