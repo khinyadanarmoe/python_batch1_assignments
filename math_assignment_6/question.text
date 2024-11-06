@@ -1,0 +1,18 @@
+Problem : Surface area of a cylinder
+Problem Statement:
+To calculate the surface area of a cylinder in Python, you'll need to know the formula for the surface area of a cylinder, which is given by:
+
+where:
+r is the radius of the cylinder's base.
+h is the height of the cylinder.
+π is a mathematical constant approximately equal to 3.14159.
+Explanation:
+Importing math Module: We import the math module to access the value of π\piπ.
+Function Definition: We define a function cylinder_surface_area that takes radius and height as parameters and returns the surface area.
+Input: The program prompts the user to enter the radius and height.
+Output: It calculates the surface area and prints it formatted to two decimal places.
+
+
+
+
+

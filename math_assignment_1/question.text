@@ -1,0 +1,29 @@
+Assignment Question 1:
+Problem Statement:
+Instructions:
+Given Information:
+The sum of the interior angles of any triangle is always 180 degree∘.
+Two angles of the triangle are already given in the diagram:
+One angle is 40 degree∘.
+Another angle is 60 degree∘.
+Task:
+Write a Python program to calculate the third angle of the triangle.
+Use the formula:
+ 
+Print the third angle.
+Example Calculation:
+From the diagram:
+First angle (a1​) = 40 degree
+Second angle (a2​) = 60 degree
+Third angle (a3​) is calculated as:
+
+Example Input/Output:
+Input:
+First angle = 40
+Second angle = 60
+
+Output:
+The third angle is: 80
+
+
+

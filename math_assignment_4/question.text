@@ -1,0 +1,25 @@
+Problem Set: Finding the Angle w in the Given Triangle
+Problem Statement:
+Task:
+Calculate the value of w using the properties of isosceles triangles and the fact that the sum of the angles in any triangle is 180 degree.
+Steps to Solve:
+Identify the Isosceles Triangle Properties:
+The triangle shown is isosceles, meaning two sides are equal, and the base angles are also equal.
+Let the two base angles of the triangle be w each (since base angles in an isosceles triangle are equal).
+Sum of the Angles in a Triangle:
+The sum of the angles in any triangle is always 180 degree∘. This gives us the equation:
+
+Simplifying the equation:
+
+Solving for w:
+Subtract 24 degree∘ from both sides:
+
+
+Conclusion:
+The value of the angle w is 78 degree.
+
+Final Answer:
+The size of the angle w is 78 degree
+
+
+

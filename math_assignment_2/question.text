@@ -1,0 +1,30 @@
+Assignment Question 2:
+Problem Statement:
+You are tasked with calculating the interior angles of a triangle given the lengths of its sides. The formula to compute the angles is based on the law of cosines. Given three sides of a triangle a, b, and c, calculate the three interior angles at the corners of the triangle. Your solution should include the steps to compute the angles and output them in degrees.
+
+Instructions:
+Write a Python program to calculate the three angles of a triangle using the law of cosines.
+The program should take three input values representing the lengths of the sides of the triangle.
+Use the following formulas to calculate the angles:
+Convert the calculated angles from radians to degrees.
+
+Output the three angles of the triangle with two decimal places.
+Requirements:
+The program should check that the input side lengths can form a valid triangle. If not, it should output a message indicating that the sides do not form a valid triangle.
+The angles should be displayed in degrees and rounded to two decimal places.
+Example:
+Input:
+Enter the length of side a: 3
+Enter the length of side b: 4
+Enter the length of side c: 5
+
+Output:
+The angles of the triangle are: 36.87, 53.13, 90.00
+
+Hint:
+Use the math.acos() function to calculate the arccosine of a value, and use math.degrees() to convert radians to degrees.
+
+
+
+
+

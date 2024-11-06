@@ -1,0 +1,26 @@
+Problem Set: Hypotenuse of a Right-Angled Triangle
+Problem Statement:
+In a right-angled triangle, the hypotenuse is the longest side, opposite the right angle. You are required to calculate the hypotenuse given the lengths of the other two sides, commonly referred to as the base and the height.
+Instructions:
+Given Information:
+In a right-angled triangle, you are given the lengths of two sides:
+Base (a)
+Height (b)
+Task:
+Write a Python program to calculate the hypotenuse of the triangle using the Pythagorean theorem:
+
+You will need to use Python's math.sqrt() function to calculate the square root.
+Example Calculation:
+If the base (a) = 3 units, and the height (b) = 4 units, the hypotenuse is calculated as:
+
+Example Input/Output:
+Input:
+Base = 3
+Height = 4
+
+Output:
+The hypotenuse is: 5.0 units
+
+
+
+
